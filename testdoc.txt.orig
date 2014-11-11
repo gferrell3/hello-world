@@ -1,0 +1,7 @@
+abcdefg
+<<<<<<< HEAD
+12345
+=======
+
+where is my commit?!
+>>>>>>> test-branch
